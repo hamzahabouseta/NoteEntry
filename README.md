@@ -1,2 +1,2 @@
 # WriteNotes
-Note taking app 
+Note taking app using react and firebase
